@@ -1,10 +1,10 @@
 {
   "radio": [
     {
-      "radio_name": "EMC Radio",
+      "radio_name": "Glory Days Radio",
       "radio_genre": "The Voice of Abundance",
-      "radio_url": "https://c22.radioboss.fm:18040/stream",
-      "radio_image_url": "https://i.ibb.co/p6K8Cpm1/emc-logo.jpg",
+      "radio_url": "https://cast4.asurahosting.com/proxy/gloryat1/stream",
+      "radio_image_url": "https://i.ibb.co/Lz4dz7cr/glory-radio.webp",
       "background_image_url": "https://i.ibb.co/XDz6N86/mcfbackground.jpg",
       "blur_radio_background": "true",
       "song_metadata": "true",
@@ -55,24 +55,15 @@
   ],
   "socials": [
     {
-      "social_name": "Website",
+      "social_name": "Church Website",
       "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/website.png",
-      "social_url": "https://edenmiracleministries.org/"
+      "social_url": "https://glorydaysglobal.org/"
     },
+   
     {
-      "social_name": "Facebook",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/facebook.png",
-      "social_url": "https://www.facebook.com/edenmcm"
-    },
-    {
-      "social_name": "Youtube",
+      "social_name": "Youtube Channel",
       "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/twitter.png",
-      "social_url": "https://www.youtube.com/c/EDENMIRACLEMINISTRIES"
-    },
-    {
-      "social_name": "Join Whatsapp Group",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/instagram.png",
-      "social_url": "https://www.youtube.com/c/EDENMIRACLEMINISTRIES"
+      "social_url": https://www.youtube.com/@GloryDaysGlobal/videos"
     }
-  ]
+    ]
 }
